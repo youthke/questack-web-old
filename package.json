@@ -34,7 +34,7 @@
     "antd": "3.23.6",
     "axios": "0.21.2",
     "babel-plugin-import": "1.12.2",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "https-proxy-agent": "^5.0.0",
     "js-base64": "2.5.1",
     "js-cookie": "2.2.1",
